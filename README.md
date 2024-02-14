@@ -21,6 +21,14 @@ If you find any bugs or issues, please open an issue or submit a pull request fi
 Contributions are welcome! Please follow these steps:
 - Fork this repository
 - Create your feature branch
-- Commit your changes
+- Commit your changes!
+
 - Push to the branch
 - Create a new Pull Request
+
+### License
+Distributed under the Apache 2.0 License. See LICENSE for the full license text.
+
+
+### Contact
+Shardul - <a href="https://www.linkedin.com/in/shardul-pund-b13506207/"><img src="https://github.com/shardul1004/Flutter_landingPage_website/assets/79348541/c6e84ff9-c030-4154-b766-74b78c0c199d"></a> - shardulpund17@gmail.com
