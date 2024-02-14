@@ -525,7 +525,7 @@ class _mainPageState extends State<mainPage> with TickerProviderStateMixin {
                       ),
                     ),
 
-                    //Sheen ai Text
+                    //Hey There!! Text
                     Positioned(
                       top: _translatingtext.value,
                       left: (MediaQuery.of(context).size.width / 2)-145,
@@ -537,7 +537,7 @@ class _mainPageState extends State<mainPage> with TickerProviderStateMixin {
                             duration: Duration(seconds: 1),
                             opacity: opacityoftext,
                             child: GradientText(
-                              "Sheen AI",
+                              "Hey There!!",
                               style: TextStyle(
                                 fontWeight: FontWeight.w900,
                                 fontSize: 72,
